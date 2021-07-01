@@ -22,6 +22,7 @@
   transition: .3s ease-in;
   color: #222;
   width: 300px;
+  pointer-events: all;
   max-width: 533px;
   text-align: left;
 }
